@@ -1,25 +1,3 @@
-<h2><width="45"/>Excel Data Analyzer with Streamlit.
-
-<img align='right' src="https://storage.googleapis.com/pai-images/7c54ebeecdc34ef693697c9ed62da3e6.jpeg" width="1080">
-
-This Streamlit application allows users to upload an Excel file, analyze its contents, and visualize index graphs based on selected terms.
-## Installation
-
-pip install streamlit
-
-## User Dependencies
-
-pip install -r requirements.txt
-## Usage/Examples
-
-
-To run the Streamlit app, use the following command:
-
-Streamlit run <your app.py>
-
-Once the app is running, you can upload an Excel file, select terms for analysis, and view the results.
-## License
-[MIT]
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -208,7 +186,7 @@ Once the app is running, you can upload an Excel file, select terms for analysis
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [2025] [Syed Mohammad Sohail]
+   Copyright [yyyy] [name of copyright owner]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -221,17 +199,3 @@ Once the app is running, you can upload an Excel file, select terms for analysis
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
-This project is licensed under the MIT License.
-## Features
-
--Upload Excel files for analysis
--Select terms to analyze from the uploaded data
--Visualize index graphs based on selected terms
-
-## File Structure
-
-├── app.py
-├── 4.jpg
-└── requirements.txt
-
